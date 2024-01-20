@@ -11,7 +11,7 @@ import java.util.Map;
 @RestController
 @SpringBootApplication
 @RequiredArgsConstructor
-public class HelloController {
+public class BeanController {
 
     private final BeanService beanService;
 
